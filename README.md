@@ -1,2 +1,0 @@
-# obligatorisk-oppgave-
-Newtons avkjølingslov
